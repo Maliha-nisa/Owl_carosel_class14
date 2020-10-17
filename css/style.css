@@ -1,0 +1,52 @@
+body{
+    
+    /* background-image: url(../img/3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+
+
+}
+
+.headline{
+    background: rosybrown;
+    color: rgb(78, 9, 78);
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+
+img{
+    height:250px;
+}
+
+.bttn{
+    margin-top: 80px;
+    background: rosybrown;
+    padding: 60px;
+    text-align: center;
+}
+
+.bttn2{
+    padding: 10px;
+    background:rgb(78, 9, 78);
+    color: white;
+}
+
+.owl-theme .owl-dots .owl-dot span {
+    width: 52px ;
+    height: 10px;
+    margin: 5px 7px;
+    background:rgb(82, 5, 82);
+    display: block;
+    -webkit-backface-visibility: visible;
+    transition: opacity .2s ease;
+    border-radius: 30px;
+}
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot {
+    background: 0 0;
+    color: red;
+    border: none;
+    padding: 10px!important;
+    font: inherit;
+    
+}
